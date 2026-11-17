@@ -4,10 +4,10 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> Project ideas you can actually finish this weekend. Curated, simple, and free to use — one line per entry. Each idea links to a tutorial or starter to get you going.
+> Project ideas you can actually finish this weekend. Curated, simple, and free to use - one line per entry. Each idea links to a tutorial or starter to get you going.
 
 ## Why This List
-Beginners endlessly search for project ideas, and teachers share lists like this in courses and Discords. Nothing to fact-check, nothing expires — the lowest-maintenance repo on this page.
+Beginners endlessly search for project ideas, and teachers share lists like this in courses and Discords. Nothing to fact-check, nothing expires - the lowest-maintenance repo on this page.
 
 ## Contents
 - [In 2 Hours](#in-2-hours)
@@ -46,10 +46,10 @@ Beginners endlessly search for project ideas, and teachers share lists like this
 | --- | --- |
 | [Personal portfolio](https://www.vibecodesource.com/blog/vibe-coding-project-ideas/) | The project that gets you hired |
 | [Blog from markdown](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer) | Files, parsing and deploying |
-| [Chrome extension — new-tab quotes](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension) | Quotes on every new tab |
+| [Chrome extension - new-tab quotes](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension) | Quotes on every new tab |
 
 ## Contributing
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the idea must be finishable in a weekend by a beginner, with a link to a tutorial or starter. One entry per idea.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
